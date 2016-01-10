@@ -1,0 +1,7 @@
+# cpp
+*.o
+a.out
+
+# python
+*.pyo
+*.pyc
