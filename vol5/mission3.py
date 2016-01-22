@@ -1,1 +1,3 @@
-print("MINAMI") # best girl
+import random
+
+print(random.choice(["MINAMI", "RENA"]))
